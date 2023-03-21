@@ -1,3 +1,9 @@
 export default function Main() {
-  return <main className="flex-1">This is the main section</main>;
+  return (
+    <main className="flex-1">
+      <div>
+        <div></div>
+      </div>
+    </main>
+  );
 }
