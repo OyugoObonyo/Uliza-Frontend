@@ -13,12 +13,14 @@ export default function ShowQuestion() {
           <SlArrowDown />
         </button>
       </div>
-      <div className="flex flex-col space-y-2 ">
+      <div className="flex-1 flex-col space-y-2 ">
         <div>
           <h2>This is the question title</h2>
         </div>
+        <div className="flex items-center justify-center border-t p-1">
+          <IconBar />
+        </div>
       </div>
-      <IconBar />
     </>
   );
 }

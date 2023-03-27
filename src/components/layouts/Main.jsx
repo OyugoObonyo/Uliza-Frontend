@@ -7,7 +7,7 @@ export default function Main() {
       <div className="relative m-2 p-2 rounded-2xl bg-white">
         <PostQuestion />
       </div>
-      <div className="p-2 m-2 rounded-2xl flex space-x-2 items-center bg-white">
+      <div className="p-2 m-2 rounded-2xl flex space-x-4 items-center bg-white">
         <ShowQuestion />
       </div>
     </main>
