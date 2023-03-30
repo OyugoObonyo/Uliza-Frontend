@@ -1,4 +1,4 @@
-import PostQuestion from "../elements/forms/Question/PostQuestion";
+import PostQuestion from "../elements/forms/question/PostQuestion";
 import ShowQuestion from "../cards/ShowQuestion";
 
 export default function Main() {
